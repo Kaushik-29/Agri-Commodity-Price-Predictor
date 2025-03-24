@@ -14,7 +14,7 @@ This platform uses AI/ML models to predict agricultural commodity prices based o
 
 - Frontend: React with TypeScript
 - Backend: FastAPI (Python)
-- ML Models: TensorFlow, scikit-learn
+- ML Models: TensorFlow, scikit-learn(LSTM, ARIMA) 
 - Database: SQLite (for development)
 
 ## Setup Instructions
